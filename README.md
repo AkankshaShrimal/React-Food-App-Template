@@ -14,10 +14,10 @@ A simple food app tempate to keep a log of calorie intake of a person per day.
 
 ## Result:
 <p align="center">
-<img src='https://user-images.githubusercontent.com/24764528/41351152-24341998-6f33-11e8-9576-6d7cf5633f07.png' width='400px'>
-<img src='https://user-images.githubusercontent.com/24764528/41351161-2fd9d738-6f33-11e8-86a6-08b8e75cefb2.png' width='400px'>
-<img src='https://user-images.githubusercontent.com/24764528/41351172-358dab46-6f33-11e8-9c3d-71ad95c66178.png' width='400px'>
-<img src='https://user-images.githubusercontent.com/24764528/41351185-3d2f8d1a-6f33-11e8-9dd2-89e67dd28545.png' width='400px'></p>
+<img src='https://user-images.githubusercontent.com/24764528/41351152-24341998-6f33-11e8-9576-6d7cf5633f07.png' width='600px'></p>
+<img src='https://user-images.githubusercontent.com/24764528/41351161-2fd9d738-6f33-11e8-86a6-08b8e75cefb2.png' width='600px'>
+<img src='https://user-images.githubusercontent.com/24764528/41351172-358dab46-6f33-11e8-9c3d-71ad95c66178.png' width='600px'>
+<img src='https://user-images.githubusercontent.com/24764528/41351185-3d2f8d1a-6f33-11e8-9dd2-89e67dd28545.png' width='600px'>
 
 
 ## Procedure:
