@@ -5,7 +5,7 @@ A simple food app tempate to keep a log of calorie intake of a person per day.
 ## Dependencies:
  
 - react 16.2.0
-- react-dom : 16.2.0
+- react-dom  16.2.0
 - bootstrap 4.0.0-beta.3
 - [ reactstrap](https://reactstrap.github.io) 
 - react-router-dom 4.2.2
@@ -30,6 +30,8 @@ A simple food app tempate to keep a log of calorie intake of a person per day.
 ## Procedure:
 
 - Clone this repository `git clone git@github.com:AkankshaShrimal/React-Food-App-Template.git`.
+- Run using `npm start`.
+
 
 
 
